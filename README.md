@@ -1,5 +1,4 @@
-### Name: VANABHARATH.D
-### Roll No: 23000857
+
 # Experiment 06: Synchronous counters: Up counter and Down counter
 # AIM
 To implement 3 bit up and down counters and validate functionality.
